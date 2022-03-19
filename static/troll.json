@@ -1,0 +1,5 @@
+product_sales:[
+  {group: "1", variable: "Sat", value:100},
+  {group: "2", variable: "Mon", value:"75"},
+  {group: "3", sales: "Fri", value:"120"}
+]
