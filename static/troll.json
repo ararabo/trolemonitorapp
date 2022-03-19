@@ -1,1 +1,1 @@
-{group: "1", variable: "Sat", value:"100"},{group: "2", variable: "Mon", value:"75"},{group: "3", variable: "Fri", value:"120"}
+[{"group": "1", "variable": "Sat", "value":100},{"group": "2", "variable": "Mon", "value":75},{"group": "3", "variable": "Fri", "value":120}]
