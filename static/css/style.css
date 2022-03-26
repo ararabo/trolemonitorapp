@@ -119,10 +119,28 @@ button:hover .liquid {
 .left_column{
   float: left;
   width: 85%; /* 要素の幅を50%に定義 */
+  height:75px;
 }
 .right_column{
   float: right;
   width: 15%; /* 要素の幅を50%に定義 */
+  height:75px;
+}
+.summon_row{
+  width:838px;
+  height:230px;
+  /* background-color:	#223E3C */
+}
+.left_column2{
+  float: left;
+  width: 15%; /* 要素の幅を50%に定義 */
+  height:230px;
+  text-align: center;
+}
+.right_column2{
+  float: right;
+  width: 85%; /* 要素の幅を50%に定義 */
+  height:230px; 
 }
 .contents {
   float:left;
@@ -138,7 +156,7 @@ button:hover .liquid {
 }
 .header{
   width:838px;
-  height:50px;
+  height:75px;
 }
 header {
   border:dashed 1px #999;
